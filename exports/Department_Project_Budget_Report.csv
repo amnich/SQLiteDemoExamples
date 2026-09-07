@@ -1,0 +1,5 @@
+﻿"DepartmentName";"CostCenter";"TotalProjects";"TotalAllocatedBudget";"TotalSpent";"RemainingBudget";"UtilizationPercent"
+"Business Central ERP";"CC-102";"2";"220000";"100000";"120000";"45.5"
+"Infrastructure & Cloud";"CC-101";"2";"205000";"180000";"25000";"87.8"
+"Quality Assurance";"CC-104";"1";"60000";"12000";"48000";"20"
+"Production Planning";"CC-103";"1";"45000";"44500";"500";"98.9"

@@ -1,0 +1,38 @@
+﻿[
+    {
+        "DepartmentName":  "Business Central ERP",
+        "CostCenter":  "CC-102",
+        "TotalProjects":  2,
+        "TotalAllocatedBudget":  220000,
+        "TotalSpent":  100000,
+        "RemainingBudget":  120000,
+        "UtilizationPercent":  45.5
+    },
+    {
+        "DepartmentName":  "Infrastructure \u0026 Cloud",
+        "CostCenter":  "CC-101",
+        "TotalProjects":  2,
+        "TotalAllocatedBudget":  205000,
+        "TotalSpent":  180000,
+        "RemainingBudget":  25000,
+        "UtilizationPercent":  87.8
+    },
+    {
+        "DepartmentName":  "Quality Assurance",
+        "CostCenter":  "CC-104",
+        "TotalProjects":  1,
+        "TotalAllocatedBudget":  60000,
+        "TotalSpent":  12000,
+        "RemainingBudget":  48000,
+        "UtilizationPercent":  20
+    },
+    {
+        "DepartmentName":  "Production Planning",
+        "CostCenter":  "CC-103",
+        "TotalProjects":  1,
+        "TotalAllocatedBudget":  45000,
+        "TotalSpent":  44500,
+        "RemainingBudget":  500,
+        "UtilizationPercent":  98.9
+    }
+]
